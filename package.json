@@ -4,9 +4,8 @@
   "description": "proyectofinal",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit",
-    "compile:sass":"node-sass sass/main.scss css/main.css -w",
-    "build-css": "node-sass --include-path scss sass/main.scss css/main.css",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "node-sass --include-path proyecto sass/main.scss css/main.css",
     "watch-css": "nodemon -e scss -x \"npm run build-css\""
   }, 
   "author": "Brenda Soledad Resch",
