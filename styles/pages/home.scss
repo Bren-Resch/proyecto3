@@ -1,17 +1,28 @@
 .title-labue{
-    color: rgb(33, 60, 83);
+    color: $color-principal;
     text-align: right;
     margin-right: 25px;
     margin-top: 20px;
     font-size: 35px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+.container-section{
+    display: flex;
+}
+
 .container-oferta{
     text-align: center;
-    background-color: rgb(86, 127, 216);
-    .oferta{
-        font-size:large;
-    }
+    background-color: $color-principal;
+}
+.oferta{
+    font-size:large;
+}
+
+.card-border{
+    border: solid 10px white;
+    border-radius: 20px;
+    overflow: hidden;
 }
 
 .item{
