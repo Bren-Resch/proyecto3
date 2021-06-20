@@ -1,6 +1,6 @@
 
 .title-labue {
-	color: rgb(33, 60, 83);
+	color: rgb(33, 60, 83) !important;
 	text-align: right;
 	margin-right: 25px;
 	margin-top: 20px;
@@ -16,7 +16,7 @@
 }
 
 .design{
-	background-color:rgb(33, 60, 83);
+	background-color:rgb(33, 60, 83) !important;
 	color: white;
 	text-decoration: none;
 }
@@ -26,7 +26,7 @@
 }
 .navbar-nav{
 	font-size: 15px;
-	color: rgb(33, 60, 83);
+	color: rgb(33, 60, 83) !important;
 	font-weight: 600;
 
 }
@@ -36,7 +36,7 @@
 }
 
 .card-border {
-	border: rgb(33, 60, 83);
+	border: rgb(33, 60, 83) !important;
 	border-radius: 20px;
 	overflow: hidden;
 }
@@ -46,14 +46,14 @@
 }
 .list {
 	item {
-		text-decoration: none;
-		list-style: none;
+		text-decoration: none !important;
+		list-style: none !important;
 		display: flex;
 		display: inline-block;
 	}
 	a {
 		text-decoration: none;
-		color: rgb(33, 60, 83);
+		color: rgb(33, 60, 83) !important;
 	}
 }
 .links {

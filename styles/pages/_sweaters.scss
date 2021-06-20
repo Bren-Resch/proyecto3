@@ -1,6 +1,6 @@
 
 .title-labue {
-	color: rgb(33, 60, 83);
+	color: rgb(33, 60, 83) !important;
 	text-align: right;
 	margin-right: 25px;
 	margin-top: 20px;
@@ -9,7 +9,7 @@
 }
 .container-oferta {
 	text-align: center;
-	background-color: rgb(86, 127, 216);
+	background-color: rgb(86, 127, 216) !important;
 }
 .oferta {
 	font-size: large;
@@ -19,7 +19,7 @@
 }
 .list {
 	item {
-		text-decoration: none;
+		text-decoration: none !important;
 		display: flex;
 		display: inline-block;
 	}

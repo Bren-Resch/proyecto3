@@ -6,7 +6,7 @@ html {
   font-size: 62.5%; }
 
 .title-labue {
-  color: #213c53;
+  color: #213c53 !important;
   text-align: right;
   margin-right: 25px;
   margin-top: 20px;
@@ -20,7 +20,7 @@ html {
   justify-content: center; }
 
 .design {
-  background-color: #213c53;
+  background-color: #213c53 !important;
   color: white;
   text-decoration: none; }
 
@@ -29,7 +29,7 @@ html {
 
 .navbar-nav {
   font-size: 15px;
-  color: #213c53;
+  color: #213c53 !important;
   font-weight: 600; }
 
 .dropdown-menu {
@@ -37,7 +37,7 @@ html {
   color: #273754; }
 
 .card-border {
-  border: #213c53;
+  border: #213c53 !important;
   border-radius: 20px;
   overflow: hidden; }
 
@@ -45,14 +45,14 @@ html {
   display: flex; }
 
 .list item {
-  text-decoration: none;
-  list-style: none;
+  text-decoration: none !important;
+  list-style: none !important;
   display: flex;
   display: inline-block; }
 
 .list a {
   text-decoration: none;
-  color: #213c53; }
+  color: #213c53 !important; }
 
 .links {
   display: inline-block; }
@@ -61,7 +61,7 @@ html {
   text-align: center; }
 
 .title-labue {
-  color: #213c53;
+  color: #213c53 !important;
   text-align: right;
   margin-right: 25px;
   margin-top: 20px;
@@ -73,16 +73,16 @@ html {
 
 .navbar-nav {
   font-size: 15px;
-  color: #213c53;
+  color: #213c53 !important;
   font-weight: 600; }
 
 .dropdown-menu {
   font-size: 12px;
-  color: #273754; }
+  color: #273754 !important; }
 
 .container-oferta {
   text-align: center;
-  background-color: #567fd8;
+  background-color: #567fd8 !important;
   font-size: 30px; }
 
 .oferta {
@@ -95,7 +95,7 @@ html {
   font-size: x-large; }
 
 .list item {
-  text-decoration: none;
+  text-decoration: none !important;
   display: flex;
   display: inline-block; }
 
@@ -103,7 +103,7 @@ html {
   display: inline-block; }
 
 .title-labue {
-  color: #213c53;
+  color: #213c53 !important;
   text-align: right;
   margin-right: 25px;
   margin-top: 20px;
@@ -112,7 +112,7 @@ html {
 
 .container-oferta {
   text-align: center;
-  background-color: #567fd8; }
+  background-color: #567fd8 !important; }
 
 .oferta {
   font-size: large; }
@@ -121,7 +121,7 @@ html {
   display: flex; }
 
 .list item {
-  text-decoration: none;
+  text-decoration: none !important;
   display: flex;
   display: inline-block; }
 
@@ -129,7 +129,7 @@ html {
   display: inline-block; }
 
 .title-labue {
-  color: #213c53;
+  color: #213c53 !important;
   text-align: right;
   margin-right: 25px;
   margin-top: 20px;
@@ -138,7 +138,7 @@ html {
 
 .container-oferta {
   text-align: center;
-  background-color: #567fd8; }
+  background-color: #567fd8 !important; }
 
 .oferta {
   font-size: large; }
@@ -147,7 +147,7 @@ html {
   display: flex; }
 
 .list item {
-  text-decoration: none;
+  text-decoration: none !important;
   display: flex;
   display: inline-block; }
 
@@ -163,10 +163,10 @@ html {
     right: 55%;
     font-weight: inherit;
     font-size: 12px;
-    color: #213c53; }
+    color: #213c53 !important; }
 
 .title-labue {
-  color: #213c53;
+  color: #213c53 !important;
   text-align: right;
   margin-right: 25px;
   margin-top: 20px;
@@ -178,12 +178,12 @@ html {
 
 .navbar-nav {
   font-size: 15px;
-  color: #213c53;
+  color: #213c53 !important;
   font-weight: 600; }
 
 .dropdown-menu {
   font-size: 12px;
-  color: #273754; }
+  color: #273754 !important; }
 
 .container-oferta {
   text-align: center;
@@ -197,7 +197,7 @@ html {
   display: flex; }
 
 .list item {
-  text-decoration: none;
+  text-decoration: none !important;
   display: flex;
   display: inline-block; }
 
